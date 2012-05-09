@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/eDziennik-Delegates"/>
+	<classpathentry kind="lib" path="lib/jide-common.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-forms-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jide-components.jar"/>
+	<classpathentry kind="lib" path="lib/jide-dialogs.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/eDziennikDTO"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
