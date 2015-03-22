@@ -1,0 +1,1 @@
+Together with my two colleagues we designed, implemented and tested Computer system supporting registration of academic classes. I was solely responsible for desktop client design implementation and testing. The system architecture was designed by the whole team.
